@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RecipeApp
+build_property.ProjectDir = C:\Users\rasmu\source\repos\RecipeApp\RecipeApp\
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Pages/RecipeDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Pages.RecipeDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RecipeDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RecipeDetailPage.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Pages/RecipeDetailPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Pages.RecipeDetailPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RecipeDetailPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RecipeDetailPage1.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Pages/RecipeDetailPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Pages.RecipeDetailPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RecipeDetailPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RecipeDetailPage2.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Pages/RecipeDetailPage3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Pages.RecipeDetailPage3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RecipeDetailPage3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RecipeDetailPage3.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Pages/RecipeDetailPage4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Pages.RecipeDetailPage4.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RecipeDetailPage4.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RecipeDetailPage4.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Pages/RecipeDetailPage5.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Pages.RecipeDetailPage5.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RecipeDetailPage5.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RecipeDetailPage5.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Pages/StartPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Pages.StartPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\StartPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\StartPage.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/rasmu/source/repos/RecipeApp/RecipeApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RecipeApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
